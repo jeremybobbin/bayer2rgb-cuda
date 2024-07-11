@@ -1,0 +1,3 @@
+usage: bayer2rgb [-w width] [-h height] [-b buffer-size] [-k kernel count]
+
+cockboy
